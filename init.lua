@@ -1,4 +1,4 @@
 require "options"
 require "keymaps"
 require "config.lazy"
-vim.cmd "colorscheme tomorrow"
+vim.cmd "colorscheme tokyonight"

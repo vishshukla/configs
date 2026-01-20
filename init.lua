@@ -1,4 +1,4 @@
 require "options"
 require "keymaps"
 require "config.lazy"
-vim.cmd "colorscheme habamax"
+vim.cmd "colorscheme tomorrow"

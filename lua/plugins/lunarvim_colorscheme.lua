@@ -1,3 +1,3 @@
 return {
-  "lunarvim/colorschemes"
+  "lunarvim/colorschemes",
 }
